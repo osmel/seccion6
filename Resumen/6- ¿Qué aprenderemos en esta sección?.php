@@ -206,6 +206,9 @@ GET https://api.spotify.com/v1/search?q=metallica&type=artist
 			   Content-Type : application/x-www-form-urlencoded
 			   Authorization: Bearer BQAKkMmYyKC2I9o_oHrlwXJS36xCnatsXaTdX5qipG0vnv_BOgdbzAzHUyWSUw0WtHnDfnHkrRqmixceMK-L9g
 
-
-
 ///////////////////// video 88//////////////////////// 
+
+
+
+OK servicio y componentes
+OK que son los MODULOS
